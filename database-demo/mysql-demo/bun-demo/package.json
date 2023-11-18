@@ -1,0 +1,12 @@
+{
+    "name": "bun-demo",
+    "module": "index.ts",
+    "type": "module",
+    "devDependencies": {
+        "bun-types": "latest",
+        "mysql2": "^3.6.3"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0"
+    }
+}
